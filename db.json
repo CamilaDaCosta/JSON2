@@ -36,49 +36,49 @@
         "questao": 5,
         "dicas": [
          	"é uma serie",
-        	"sobre ficção cientifica",
+        	"sobre ciencia",
         	"um de seus personagens se chama leonard"],
         "resposta": "big bang theory"
       },
       {
         "questao": 6,
         "dicas": [
-         	"é uma serie",
-        	"sobre ficção cientifica",
-        	"um de seus personagens se chama leonard"],
-        "resposta": "big bang theory"
+         	"é um filme",
+        	"tem 7 horas de duração",
+        	"dirigido por Béla Tarr"],
+        "resposta": "satantango"
       },
       {
         "questao": 7,
         "dicas": [
-         	"é uma serie",
-        	"sobre ficção cientifica",
-        	"um de seus personagens se chama leonard"],
-        "resposta": "big bang theory"
+         	"é uma filme adolescente",
+        	"tem vampiros e lobos",
+        	"um famosa franquia"],
+        "resposta": "crepusculo"
       },
       {
         "questao": 8,
         "dicas": [
-         	"é uma serie",
-        	"sobre ficção cientifica",
-        	"um de seus personagens se chama leonard"],
-        "resposta": "big bang theory"
+         	"é um filme frances",
+        	"lançado em 2020",
+        	"menciona o mito de orfeu e euridice"],
+        "resposta": "retrato de uma jovem em chamas"
       },
       {
         "questao": 9,
         "dicas": [
-         	"é uma serie",
-        	"sobre ficção cientifica",
-        	"um de seus personagens se chama leonard"],
-        "resposta": "big bang theory"
+         	"é uma fruta grande",
+        	"vermelha por dentro e verde por fora",
+        	"tem muito liquido"],
+        "resposta": "melancia"
       },
       {
         "questao": 10,
         "dicas": [
          	"é uma serie",
-        	"sobre ficção cientifica",
-        	"um de seus personagens se chama leonard"],
-        "resposta": "big bang theory"
+        	"seu protagonista é um personagem atipico",
+        	"genero humor"],
+        "resposta": "atypical"
       }
     ]
   }
