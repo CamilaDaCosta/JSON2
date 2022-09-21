@@ -1,86 +1,64 @@
-{
-  "questoes": [
-    {
-      "q1": [    
-        {
-          "dica1": "é uma serie", 
-          "dica2": "é alemã" , 
-          "dica3": "os diretores são casados", 
-          "resposta": "dark"
-        }
-      ],
-      "q2": [    
-        {
-          "dica1": "é um filme", 
-          "dica2": "te um ogro verde" , 
-          "dica3": "um biscoito falante", 
-          "resposta": "shrek"
-        }
-      ],
-      "q3": [    
-        {
-          "dica1": "é um esporte", 
-          "dica2": "famoso no brasil" , 
-          "dica3": "joga com as pés", 
-          "resposta": "futebol"
-        }
-      ],
-      "q4": [    
-        {
-          "dica1": "é uma fruta", 
-          "dica2": "é amarela" , 
-          "dica3": "rica em fibras", 
-          "resposta": "pera"
-        }
-      ],
-      "q5": [    
-        {
-          "dica1": "é uma serie", 
-          "dica2": "sobre ficção cientifica" , 
-          "dica3": "um de seus personagens se chama leonard", 
-          "resposta": "big bang theory"
-        }
-      ],
-      "q6": [    
-        {
-          "dica1": "é uma serie", 
-          "dica2": "sobre ficção cientifica" , 
-          "dica3": "um de seus personagens se chama leonard", 
-          "resposta": "big bang theory"
-        }
-      ],
-      "q7": [    
-        {
-          "dica1": "é uma serie", 
-          "dica2": "sobre ficção cientifica" , 
-          "dica3": "um de seus personagens se chama leonard", 
-          "resposta": "big bang theory"
-        }
-      ],
-      "q8": [    
-        {
-          "dica1": "é uma serie", 
-          "dica2": "sobre ficção cientifica" , 
-          "dica3": "um de seus personagens se chama leonard", 
-          "resposta": "big bang theory"
-        }
-      ],
-      "q9": [    
-        {
-          "dica1": "é uma serie", 
-          "dica2": "sobre ficção cientifica" , 
-          "dica3": "um de seus personagens se chama leonard", 
-          "resposta": "big bang theory"
-        }
-      ],
-      "q10": [    
-        {
-          "dica1": "é uma serie", 
-          "dica2": "sobre ficção cientifica" , 
-          "dica3": "um de seus personagens se chama leonard", 
-          "resposta": "big bang theory"
-        }
-      ]
-    }
-  ]
-}
+  {
+    "dicas": [
+      {
+        "dica1": "é uma serie",
+        "dica2": "é alemã",
+        "dica3": "os diretores são casados",
+        "resposta": "dark"
+      },
+      {
+        "dica1": "é um filme",
+        "dica2": "te um ogro verde",
+        "dica3": "um biscoito falante",
+        "resposta": "shrek"
+      },
+      {
+        "dica1": "é um esporte",
+        "dica2": "famoso no brasil",
+        "dica3": "joga com as pés",
+        "resposta": "futebol"
+      },
+      {
+        "dica1": "é uma fruta",
+        "dica2": "é amarela",
+        "dica3": "rica em fibras",
+        "resposta": "pera"
+      },
+      {
+        "dica1": "é uma serie",
+        "dica2": "sobre ficção cientifica",
+        "dica3": "um de seus personagens se chama leonard",
+        "resposta": "big bang theory"
+      },
+      {
+        "dica1": "é uma serie",
+        "dica2": "sobre ficção cientifica",
+        "dica3": "um de seus personagens se chama leonard",
+        "resposta": "big bang theory"
+      },
+      {
+        "dica1": "é uma serie",
+        "dica2": "sobre ficção cientifica",
+        "dica3": "um de seus personagens se chama leonard",
+        "resposta": "big bang theory"
+      },
+      {
+        "dica1": "é uma serie",
+        "dica2": "sobre ficção cientifica",
+        "dica3": "um de seus personagens se chama leonard",
+        "resposta": "big bang theory"
+      },
+      {
+        "dica1": "é uma serie",
+        "dica2": "sobre ficção cientifica",
+        "dica3": "um de seus personagens se chama leonard",
+        "resposta": "big bang theory"
+      },
+      {
+        "dica1": "é uma serie",
+        "dica2": "sobre ficção cientifica",
+        "dica3": "um de seus personagens se chama leonard",
+        "resposta": "big bang theory"
+      }
+    ]
+  }
